@@ -10,7 +10,8 @@ through psychological effects triggered by traffic delay.
 The underlying mechanism and implementation of Somaroute is described
 in the proof of concept whitepaper in this repository, `somaroute.pdf`.
 
-A demo video, `somraoute.mp4` is also provided.
+A demo video, `somraoute.mp4`, and an overview presentation,
+`somaroute_presentation.pdf`, are also provided.
 
 Additionally, the `tinyproxy` folder contains the source-code for the
 Tinyproxy-based module we use for traffic manipulation of HTTP traffic.
