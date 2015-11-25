@@ -1,5 +1,5 @@
 Somaroute
-~~~~~~~~~
+----------
 
 Somaroute is a routing infrastructure for the emotional-contagion based
 manipulation of Internet traffic on an infrastructure level, allowing
